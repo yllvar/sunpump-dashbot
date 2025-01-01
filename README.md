@@ -1,6 +1,6 @@
-# Tron Sunswap Dashbot
+# Tron Sunpump Dashbot
 
-The Tron Sunswap Dashbot is a not yet a comprehensive web application built using **Next.js** and **React**, designed to provide users with seamless interaction with the **TRON blockchain** and the **Sunswap decentralized exchange**.
+The Tron Sunpump Dashbot is a not yet a comprehensive web application built using **Next.js** and **React**, designed to provide users with seamless interaction with the **TRON blockchain** and the **Sunswap decentralized exchange**.
 
 ---
 <img width="842" alt="Screenshot 2025-01-01 at 17 19 31" src="https://github.com/user-attachments/assets/6b024ab2-2c5b-452e-a3f4-00ca5bf093e8" />
