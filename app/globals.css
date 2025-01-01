@@ -1,0 +1,43 @@
+:root {
+  --background: 32 100% 62%;
+  --foreground: 120 3% 12%;
+  --card-background: 28 84% 72%;
+}
+
+.dark {
+  --background: 32 100% 62%;
+  --foreground: 120 3% 12%;
+  --card-background: 28 84% 72%;
+}
+
+.bg-card {
+  background-color: hsl(var(--card-background));
+}
+
+/* Example component styles - replace bg-white or bg-background with bg-[#FF9D3D] */
+.component {
+  background-color: hsl(var(--background));
+  color: hsl(var(--foreground));
+  padding: 1rem;
+  border-radius: 0.5rem;
+}
+
+.component.dark {
+  background-color: hsl(var(--background));
+  color: hsl(var(--foreground));
+}
+
+.another-component {
+  background-color: hsl(var(--background)); /* Example: Replacing bg-background */
+  color: white;
+}
+
+.yet-another-component {
+  background-color: bg-[#FF9D3D]; /* Example: Replacing bg-white */
+  color: black;
+}
+
+.text-primary {
+  color: #1E201E;
+}
+
